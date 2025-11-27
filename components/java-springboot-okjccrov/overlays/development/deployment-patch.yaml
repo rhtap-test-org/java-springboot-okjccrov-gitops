@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/java-springboot-okjccrov:474ec35fdea3a2bd122c4f4e391704a98b05c39a@sha256:0e578d5d021a2cb81ff759c23c97b246f7198f5f6d5cec1795c2ac94fa4c1c70
+        - image: quay.io/tsscui/java-springboot-okjccrov:25a4b3126ae53b39cc6517c9a67ab99ce0a8c235@sha256:f33a2cd64dea50629473c14df0376f271d779c14bca6830d97e7d1b0bcbee8a6
           name: container-image
